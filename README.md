@@ -34,6 +34,11 @@ pytest
 
 This will discover and execute all test cases in the `test` folder.
 
+## Jupyter Notebooks
+You can also explore the `notebook` folder:
+
+[Jupyter Notebook](https://github.com/Myrausman/length-constraint-processor/blob/main/notebook/length_constraint_processor.ipynb)
+
 ## Project Structure
 
 - **src**: Contains the source code for the list processing tool.
